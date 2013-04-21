@@ -2,9 +2,9 @@ name := "sbt-s3"
 
 description := "S3 Plugin for sbt"
 
-version := "0.4"
+version := "0.5"
 
-scalaVersion := "2.9.2"
+scalaVersion := "2.10"
 
 organization := "com.typesafe.sbt"
 
